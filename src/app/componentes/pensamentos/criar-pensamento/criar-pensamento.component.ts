@@ -17,8 +17,4 @@ export class CriarPensamentoComponent {
   criarPensamento() {
     alert('teste')
   }
-
-  cancelarPensamento() {
-    alert('teste')
-  }
 }
